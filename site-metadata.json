@@ -1,23 +1,17 @@
 {
-    "title": "Stackbit Fresh Theme",
-    "layout_style": "overflow",
-    "palette": "blue",
-    "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
-        "bg": "dark",
-        "has_nav": true,
-        "has_social": true
-    },
-    "footer": {
-        "content": "&copy; All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
-    }
+  "title": "Steven's Blog",
+  "layout_style": "overflow",
+  "palette": "blue",
+  "header": {
+    "title": "Steven's Blog",
+    "tagline": "Thoughts of a Web Developer",
+    "profile_img": "/images/22450188.png",
+    "bg": "dark",
+    "has_nav": true,
+    "has_social": true
+  },
+  "footer": {
+    "content": "Steven Torrence &copy; 2019 All rights reserved.",
+    "links": []
+  }
 }
