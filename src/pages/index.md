@@ -12,7 +12,10 @@ sections:
       - label: Contact Me
         url: /contact
     component: ContentBlock
-    content: ''
+    content: >-
+      Musician turned educator turned programmer. I have an insatiable desire to
+      discover the unknown (unknown to me at least) and a passion for new
+      experiences!
     section_id: about
     title: About
     type: contentblock
