@@ -3,7 +3,7 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      Collection of tidbits and lesson I've come across on my journey as a web
+      Collection of tidbits and lessons I've come across on my journey as a web
       developer.
     section_id: hero
     title: Hi! I'm Steve.
