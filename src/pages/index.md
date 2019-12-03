@@ -6,7 +6,7 @@ sections:
       Collection of tidbits and lessons I've come across on my journey as a web
       developer.
     section_id: hero
-    title: Hi! I'm Steve.
+    title: Hi. I'm Steve.
     type: heroblock
   - actions:
       - label: Contact Me
